@@ -7,7 +7,7 @@ Welcome to my Github profile. Here you will find:
 - 🔴 A frustratingly low number of comments. 
 - 🔴 Not nearly enough tests.
 - 🔴 A distinct lack of open source contributions.
-- 🟢 A developer desperately trying to be better on all counts.
+- 🟢 A developer desperately trying to be better.
 
 <!--
 **pauldolden/pauldolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
