@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. Welcome to my GitHub profile.
+
+I'm Paul Dolden, a full-stack developer from Essex, UK.
 
 <!--
 **pauldolden/pauldolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
