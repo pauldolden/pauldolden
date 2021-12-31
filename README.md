@@ -9,7 +9,6 @@ Welcome to my Github profile. Here you will find:
 - 🔴 A distinct lack of open source contributions.
 - 🟢 A developer desperately trying to be better on all counts.
 
-
 <!--
 **pauldolden/pauldolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
