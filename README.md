@@ -1,8 +1,6 @@
-### Hi there 👋, I'm Paul Dolden, a full-stack developer from Essex, UK.
+### Hi there 👋 Welcome to my Github profile.  
 
-I'm an infuriatingly curious developer, who is invariably guilty of longing glances at shiny things.
-
-Welcome to my Github profile. 
+I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing glances at shiny things �.
 
 # Here you will find:
 
@@ -13,13 +11,13 @@ Welcome to my Github profile.
 - 🔴 A distinct lack of open source contributions.
 - 🟢 A developer desperately trying to be better.
 
-# I build stuff in
+# 🔨 I build stuff in
 
 - TypeScript
-- React (w/ Gatsby or NextJS)
+- React
 - NodeJS
 
-# I'm looking to get into
+# 💭 I'm looking to get into
 - Svelte/Svelte Kit
 - Remix
 - Go
