@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Paul Dolden, a full-stack developer from Essex, UK.
 
----
 I'm an infuriatingly curious developer, who is invariably guilty of longing glances at shiny things.
----
 
 Welcome to my Github profile. 
 
