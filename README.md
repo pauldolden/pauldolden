@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github profile.  
 
-I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing glances at shiny things �.
+I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
 
 ### Here you will find:
 
@@ -15,6 +15,8 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 
 - TypeScript
 - React
+- NextJS
+- Gatsby
 - NodeJS
 
 ### 💭 I'm looking to get into
