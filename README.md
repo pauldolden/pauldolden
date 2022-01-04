@@ -2,7 +2,7 @@
 
 I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
 
-### Here you will find:
+### 📋 Here you will find:
 
 - 🔴 Things that I both am, and am not, actively avoiding working on.
 - 🔴 A number of projects started and stopped in handful of different languages and frameworks (usually whichever is the shiniest).
