@@ -11,7 +11,7 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 - 🔴 A distinct lack of open source contributions.
 - 🟢 A developer desperately trying to be better.
 
-### 🔨 I build stuff in
+### 🔨 I build stuff in:
 
 - TypeScript
 - React
@@ -19,13 +19,13 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 - Gatsby
 - NodeJS
 
-### 💭 I'm looking to get into
+### 💭 I'm looking to get into:
 - Svelte/Svelte Kit
 - Remix
 - Go
 - Rust
 
-### 📍 You can find me
+### 📍 You can find me:
 
 - https://dolden.dev
 - https://twitter.com/pauldolden
