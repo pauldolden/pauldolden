@@ -23,6 +23,11 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 - Go
 - Rust
 
+### 📍 You can find me
+
+- https://dolden.dev
+- https://twitter.com/pauldolden
+- https://linkedin.com/in/pauldolden
 
 
 <!--
