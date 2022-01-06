@@ -17,10 +17,11 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 - React
 - NextJS
 - Gatsby
+- Svelte
+- SvelteKit
 - NodeJS
 
 ### 💭 I'm looking to get into:
-- Svelte/Svelte Kit
 - Remix
 - Go
 - Rust
