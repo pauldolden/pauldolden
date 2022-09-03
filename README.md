@@ -16,7 +16,7 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 - TypeScript
 - React
 - NextJS
-- Gatsby
+- Astro
 - Svelte
 - SvelteKit
 - NodeJS
