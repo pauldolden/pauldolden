@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github profile.  
 
-I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
+I'm Paul Dolden (He/Him), a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
 
 ### 📋 Here you will find:
 
@@ -20,11 +20,12 @@ I'm Paul Dolden, a developer from Essex, UK, who is invariably guilty of longing
 - Svelte
 - SvelteKit
 - NodeJS
-
-### 💭 I'm looking to get into:
-- Remix
 - Go
 - Rust
+
+### 📡 Currently on my radar:
+- WASM
+- Yew/Leptos
 
 ### 📍 You can find me:
 
