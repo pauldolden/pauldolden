@@ -25,7 +25,6 @@ I'm Paul Dolden (He/Him), a developer from Essex, UK, who is invariably guilty o
 
 ### 📡 Currently on my radar:
 - WASM
-- Yew/Leptos
 
 ### 📍 You can find me:
 
