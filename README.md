@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Github profile.  
+## Hi there 👋.  
 
 I'm Paul Dolden (He/Him), a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
 
