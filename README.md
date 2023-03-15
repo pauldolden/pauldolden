@@ -3,10 +3,11 @@
 I'm Paul Dolden (He/Him), a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
 
 <!-- ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars) -->
+<div style="display: flex; justify-content: center;">
+  <img style="height: 240px; flex: 1;" alt="Paul's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pauldolden&theme=tokyonight&hide_border=true">
+  <img style="height: 240px; flex: 1;" alt="Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10&layout=compact">
+</div>
 
-![Paul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauldolden&theme=tokyonight&hide_border=true)
-
-[![Paul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📍 You can find me:
 
