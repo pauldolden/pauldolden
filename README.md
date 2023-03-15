@@ -1,27 +1,12 @@
-## Hi there 👋
+### Hey, I'm Paul!
 
 I'm Paul Dolden (He/Him), a developer from Essex, UK, who is invariably guilty of longing glances at shiny things 💎.
 
-### 📋 Here you will find:
+<!-- ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars) -->
 
-- 🔴 Not nearly enough tests.
-- 🔴 A distinct lack of open source contributions.
-- 🟢 A developer desperately trying to be better.
+![Paul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauldolden&theme=tokyonight&hide_border=true)
 
-### 🔨 I build stuff in:
-
-- TypeScript
-- React
-- NextJS
-- Astro
-- Svelte
-- SvelteKit
-- NodeJS
-- Go
-- Rust
-
-### 📡 Currently on my radar:
-- WASM
+[![Paul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📍 You can find me:
 
@@ -29,7 +14,6 @@ I'm Paul Dolden (He/Him), a developer from Essex, UK, who is invariably guilty o
 - https://twitter.com/pauldolden
 - https://linkedin.com/in/pauldolden
 - https://twitch.tv/pauldolden
-
 
 <!--
 **pauldolden/pauldolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
