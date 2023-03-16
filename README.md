@@ -1,4 +1,4 @@
-Hi, I'm Paul (He/Him).
+# Hi, I'm Paul (He/Him).
 
 <div align="center">
 	<a href="mailto:paul@dolden.co.uk" style="text-decoration: none;">
