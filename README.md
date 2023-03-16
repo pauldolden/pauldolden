@@ -24,7 +24,7 @@
 	<p align="left">
 		I really like writing code and spend my time bouncing between any number of unfinished projects. Here's what I've been up to recently:
 	</p>
-	<div align="center" style="width: 50%">
+	<div align="center">
 			<img style="width:50%" alt="Paul's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pauldolden&theme=tokyonight&hide_border=true">
 			<img style="width:50%" alt="Paul's Github Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=pauldolden&theme=tokyo-night&hide_border=true">
 	</div>
