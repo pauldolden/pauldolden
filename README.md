@@ -25,8 +25,7 @@
 		I like writing code and spend my time bouncing between any number of unfinished projects. Here's what I've been up to recently:
 	</p>
 	<div align="center">
-			<img style="width:50%" alt="Paul's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pauldolden&theme=tokyonight&hide_border=true">
-			<img style="width:50%" alt="Paul's Github Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=pauldolden&theme=tokyo-night&hide_border=true">
+			<img style="display: inline-block;" alt="Paul's Github Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=pauldolden&theme=tokyo-night&hide_border=true">
 	</div>
 	<p align="left">
 		I enjoy working up and down the tech stack, be it front-end, back-end or ops. I love to learn and to experiment with new tools and technologies. Currently I'm working with these languages:
