@@ -1,4 +1,4 @@
-## Hi, I'm Paul and this is where I live.
+## Hi, I'm Paul and this is where I do code stuff.
 
 <div align="center">
 	<a href="mailto:paul@dolden.co.uk" style="text-decoration: none;">
