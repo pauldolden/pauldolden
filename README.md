@@ -32,5 +32,5 @@
 	</p>
 	<div align="center">
 		 <img style="height: 250px; display:inline-block;" alt="Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10&layout=compact">
-		<img style="height:250px; display:inline-block; border-radius: 4.5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldolden&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Weekly+Stats">
+		<!-- <img style="height:250px; display:inline-block; border-radius: 4.5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldolden&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Weekly+Stats"> -->
 </div>
