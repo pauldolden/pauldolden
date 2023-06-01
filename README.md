@@ -22,11 +22,8 @@
 		I'm a developer from the UK, currently working as a full-stack engineer for <a href="https://comicrelief.com">Comic Relief</a>, a major UK based charity that strives for "A just world free from poverty".
 	</p>
 	<p align="left">
-		I like writing code and spend my time bouncing between any number of unfinished projects. Here's what I've been up to recently:
+		I like writing code and spend my time bouncing between any number of unfinished projects.
 	</p>
-	<div align="center">
-			<img style="display: inline-block;" alt="Paul's Github Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=pauldolden&theme=tokyo-night&hide_border=true">
-	</div>
 	<p align="left">
 		I enjoy working up and down the tech stack, be it front-end, back-end or ops. I love to learn and to experiment with new tools and technologies. Currently I'm working with these languages:
 	</p>
