@@ -19,7 +19,7 @@
 </div>
 <div align="center" style="width: 800px;">
 	<p align="left">
-		I'm a developer from the UK, currently working as a full-stack engineer for <a href="https://comicrelief.com">Comic Relief</a>, a major UK based charity that strives for "A just world free from poverty".
+		I'm a developer from the UK, currently working as a full-stack engineer for <a href="https://thefa.com">The FA</a>, a major UK based charity that strives for "A just world free from poverty".
 	</p>
 	<p align="left">
 		I like writing code and spend my time bouncing between any number of unfinished projects.
