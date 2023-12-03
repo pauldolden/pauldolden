@@ -19,15 +19,9 @@
 </div>
 <div align="center" style="width: 800px;">
 	<p align="left">
-		I'm a developer from the UK, currently working as a full-stack engineer for <a href="https://thefa.com">The FA</a>, a major UK based charity that strives for "A just world free from poverty".
+		I'm a developer from the UK, currently working as a full-stack engineer for <a href="https://thefa.com">The FA</a>.
 	</p>
 	<p align="left">
 		I like writing code and spend my time bouncing between any number of unfinished projects.
 	</p>
-	<p align="left">
-		I enjoy working up and down the tech stack, be it front-end, back-end or ops. I love to learn and to experiment with new tools and technologies. Currently I'm working with these languages:
-	</p>
-	<div align="center">
-		 <img style="height: 250px; display:inline-block;" alt="Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldolden&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10&layout=compact">
-		<!-- <img style="height:250px; display:inline-block; border-radius: 4.5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldolden&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Weekly+Stats"> -->
 </div>
